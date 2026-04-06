@@ -1,8 +1,17 @@
 # Game project
 
-para correr el juego debes seguir las siguientes instrucciones en la terminal: 
+Para correr el juego debes seguir las siguientes instrucciones en la terminal: 
 
 ```sh
 cd game 
+python main.py
+```
+# Game Project 
+
+```sh
+git clone
+source env/bin/activate
+pip install -r require requirements.txt
+
 python main.py
 ```
