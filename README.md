@@ -10,6 +10,7 @@ python main.py
 
 ```sh
 git clone
+python -m venv env
 source env/bin/activate
 pip install -r require requirements.txt
 
